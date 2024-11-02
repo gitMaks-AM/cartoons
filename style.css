@@ -64,3 +64,91 @@ span{
     display: inline-block;
 }
 /* second section */
+.coco{
+    padding: 99px 0px;  
+}
+.coco-container{
+    display: flex;
+    gap: 107px; 
+}
+.coco-text{
+    display: flex;
+    gap: 30px;
+    font-size: 19px;
+    line-height: 189%;
+    color: #101010;
+    padding-bottom: 28px;
+    align-items: center;    
+}
+.coco span{
+    background-color: #EBA789;
+}
+.coco-title{
+    font-size: 35px;
+    line-height: 130%;
+    letter-spacing: 0.03em;
+    font-weight: 400;
+    padding-bottom: 30px; 
+}
+.coco-desk{
+    font-size: 14px;
+    line-height: 158%;
+    color: #101010;
+    padding-bottom: 35px;
+}
+.coco-link{
+    text-decoration: none;
+    font-size: 16px;
+    line-height: 138%;
+    color: #000;
+    background-color: #EBA789;
+    padding: 10px 20px;
+    border-radius: 8px;
+    display: inline-block;
+    background-color: #EBA789;  
+}
+/* third section */
+.wayana{
+    padding: 99px 0px;
+}
+.wayana-container{
+    display: flex;
+    gap: 107px;
+}
+.wayana-text{
+    display: flex;
+    gap: 30px;
+    font-size: 19px;
+    line-height: 189%;
+    color: #101010;
+    padding-bottom: 28px;
+    align-items: center;
+
+}
+
+.wayana span{
+    background-color: #96DBC6;
+}
+.wayana-title{
+    font-size: 35px;
+    line-height: 130%;
+    letter-spacing: 0.03em;
+    font-weight: 400;
+    padding-bottom: 30px;
+}
+.wayana-desk{
+    font-size: 14px;
+    line-height: 158%;
+    color: #101010;
+    padding-bottom: 35px;
+}
+.wayana-link{
+    text-decoration: none;
+    font-size: 16px;
+    line-height: 138%;
+    color: #000;
+    background-color: #96DBC6;
+    padding: 10px 20px;
+    border-radius: 8px;
+    display: inline-block;
+}
